@@ -5,6 +5,8 @@ On your server:
 4. vi ~/.profile
 Add source to the end of shell profile:
 
+source ~/lib/chopper/aliases.sh
+
 Now you can use aliases:
 'l' to list files
 'sc' to run rails production console
